@@ -10,8 +10,6 @@ const userSchema = new mongoose.Schema(
       enum: ["admin", "faculty", "student"], 
       default: "student" 
     },
-
-    // 👇 ADD THIS
     department: {
       type: mongoose.Schema.Types.ObjectId,
       ref: "Department"
