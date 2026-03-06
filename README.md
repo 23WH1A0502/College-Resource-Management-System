@@ -12,7 +12,7 @@ The purpose of this system is to replace manual resource booking, reduce conflic
 - React – Frontend library  
 - Node.js – Server runtime  
 
-## Architectural Principles (StackTrack Reference)
+## Architectural Principles 
 - Database-first design  
 - Backend controls business rules  
 - Centralized authentication and authorization  
