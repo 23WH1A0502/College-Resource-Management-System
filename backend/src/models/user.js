@@ -7,12 +7,12 @@ const userSchema = new mongoose.Schema(
     password: { type: String, required: true },
     role: { 
       type: String, 
-      enum: ["admin", "faculty", "student"], 
-      default: "student" 
+      enum: ["admin", "user", "faculty", "student"], 
+      default: "user" 
     },
     department: {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: "Department"
+      type: String,
+      default: ""
     }
   },
   { timestamps: true }
