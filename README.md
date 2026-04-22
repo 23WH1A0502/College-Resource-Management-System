@@ -1,5 +1,6 @@
 # College Resource Management System (MERN Stack)
-
+## Demo
+[https://drive.google.com/file/d/1Sawc9wxlW2EAQgBaOOS_gZGUGwVhdPaC/view?usp=drive_link](https://drive.google.com/file/d/1GE5cwbXxz6hTvmHozlYh2nEfjoApW261/view?usp=drive_link)
 ## Introduction
 The College Resource Management System is a MERN stack based web application designed to manage and allocate college resources such as classrooms, laboratories, seminar halls, and equipment using a centralized digital platform.
 
